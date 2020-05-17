@@ -13,8 +13,13 @@ Note: after you open the project,
       
   2.open appsettings.json and upate the database configuration details
   
-  3.open package manager console window and run this command => add-migration initial -verbose 
-     and run the application , only then you will see the tables and rows getting populated in the SQL 
+  3.open package manager console window and run this command 
+        => add-migration initial -verbose 
+          //this will generate the requried migration files
+          // and then
+          // run the following command OR run the application  - to create the database,tables and rows in the SQL
+        => udpadate-database
+
  
 
 
