@@ -1,6 +1,6 @@
 # BookStore_Authors
 ASP.NET Core Web Application using EF, Repository Pattern, JWT Token, AutoMapper, Swagger, SQL . 
-Provides all endpoints to perform CURD operation for Authors table
+Provides all endpoints to perform CRUD operation for Authors table
 
 Note: after you open the project, 
  1.download the required packages
